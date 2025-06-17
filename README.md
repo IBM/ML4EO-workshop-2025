@@ -14,8 +14,8 @@ Each notebook can be run in a Jupyter Notebook environment, preferable with acce
 1. Some understanding of Geo-spatial datasets.
 
 # Getting started
-This workshop will make use of [Colab](https://colab.google/) as a hosted Jupyter Notebook service. You must be logged in with a Google Account to use the service. Complete the following steps to get started!
-1. Navigate to [Google CoLab](https://colab.research.google.com/).![colab](images/colab-1.png)
+This workshop will make use of Colab as a hosted Jupyter Notebook service. You must be logged in with a Google Account to use the service. Complete the following steps to get started!
+1. Navigate to <a href="https://colab.research.google.com/" target="_blank">Google CoLab</a>.![colab](images/colab-1.png)
 1. Select File > Open Notebook![open notebook](images/open-notebook.png)
 1. Select `GitHub` and enter `https://github.com/IBM/ML4EO-workshop-2025` into the search box. Select one of the two Notebooks to start working.![github](images/github.png)
 1. Optionally authorize GitHub to be used with CoLab. This will enable changes to be saved in GitHub but is not necessary to complete the Workshop.
